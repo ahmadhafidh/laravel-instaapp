@@ -38,7 +38,8 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 6. storage image : php artisan storage:link
 7. jalankan server: php artisan serve
 8. project ini sudah bisa login register, posting text gambar,likes komen, authenticate pengguna, dengan UIUX yang bagus dan sudah include apis
-9. Postman Live Docs / API Documentation can be accessd by 
+9. Postman Live Docs / API Documentation can be accessed by https://documenter.getpostman.com/view/30092642/2sAYQWKYt8
+10. testing online on Hafid's server can be accessed by the following domain https://sevima-instaapp.eternityinvitation.com/
 
 ## License
 
