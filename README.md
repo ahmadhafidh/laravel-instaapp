@@ -32,11 +32,12 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## How to use
 1. cloning the project
 2. copy .env.examples to .env
-3. composer update && composer install
+3. composer update && composer install && php artisan key:generate
 4. pastikan menggunakan NodeJS versi minimal 22 LTS, kemudian jalankan npm install && npm run build 
 5. jalankan migration database : php artisan migrate
 6. storage image : php artisan storage link
 7. jalankan server: php artisan serve
+8. project ini sudah bisa login register, posting text gambar,likes komen, authenticate pengguna, dengan UIUX yang bagus dan sudah include apis
 
 ## License
 
